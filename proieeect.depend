@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1748599718 source:c:\users\maria\onedrive\documents\fmi\proieeect\decorator.cpp
+	"Decorator.h"
+
+1748599696 c:\users\maria\onedrive\documents\fmi\proieeect\decorator.h
+	<iostream>
+	<memory>
+	<string>
+
+1748599604 source:c:\users\maria\onedrive\documents\fmi\proieeect\evaluare.cpp
+	"Evaluare.h"
+	<numeric>
+
+1748599581 c:\users\maria\onedrive\documents\fmi\proieeect\evaluare.h
+	<vector>
+
+1748599786 source:c:\users\maria\onedrive\documents\fmi\proieeect\intrebare.cpp
+	"Intrebare.h"
+	<iostream>
+
+1748599491 c:\users\maria\onedrive\documents\fmi\proieeect\intrebare.h
+	<string>
+	<vector>
+
+1748599651 source:c:\users\maria\onedrive\documents\fmi\proieeect\observer.cpp
+	"Observer.h"
+	<iostream>
+
+1748599627 c:\users\maria\onedrive\documents\fmi\proieeect\observer.h
+	<string>
+
+1748599762 source:c:\users\maria\onedrive\documents\fmi\proieeect\progres.cpp
+	"Progres.h"
+	<fstream>
+	<iostream>
+
+1748599739 c:\users\maria\onedrive\documents\fmi\proieeect\progres.h
+	<string>
+
+1748599561 source:c:\users\maria\onedrive\documents\fmi\proieeect\quizz.cpp
+	"Quiz.h"
+	<fstream>
+	<iostream>
+	<limits>
+
+1748599817 c:\users\maria\onedrive\documents\fmi\proieeect\quiz.h
+	"Intrebare.h"
+	<vector>
+	<string>
+
+1748599839 source:c:\users\maria\onedrive\documents\fmi\proieeect\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Observer.h"
+	"Evaluare.h"
+	"Quiz.h"
+	"Lectie.h"
+	"Progres.h"
+
+1748599675 c:\users\maria\onedrive\documents\fmi\proieeect\lectie.h
+	<iostream>
+	<vector>
+	<string>
+

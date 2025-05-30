@@ -1,0 +1,36 @@
+Care este cel mai lung fluviu din lume?
+3
+Amazon
+Nil
+Yangtze
+2
+Care este capitala Canadei?
+3
+Toronto
+Vancouver
+Ottawa
+3
+Ce desert se afla in Africa?
+3
+Gobi
+Sahara
+Atacama
+2
+In ce continent se afla Argentina?
+3
+America de Sud
+Asia
+Europa
+1
+Ce tara are cei mai multi locuitori?
+3
+India
+China
+SUA
+2
+Ce munte este cel mai inalt de pe Pamant?
+3
+Everest
+Kilimanjaro
+Mont Blanc
+1

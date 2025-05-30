@@ -1,0 +1,36 @@
+Ce organ pompeaza sangele in corp?
+3
+Creierul
+Ficatul
+Inima
+3
+Ce gas se absoarbe in plamani?
+3
+Oxigen
+Hidrogen
+Dioxid de carbon
+1
+Care este unitatea de baza a vietii?
+3
+Tesutul
+Organul
+Celula
+3
+Unde are loc digestia principala?
+3
+Stomac
+Ficat
+Rinichi
+1
+Ce parte a plantei absoarbe apa?
+3
+Frunza
+Radacina
+Floarea
+2
+Cum se numeste procesul prin care plantele produc oxigen?
+3
+Fotosinteza
+Respiratie
+Digestie
+1

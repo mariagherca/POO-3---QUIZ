@@ -1,0 +1,5 @@
+ana Geografie 85.7143
+Ana Istorie 42.8571
+Andrei Geografie 100
+Andrei Biologie 83.3333
+Andrei Biologie 100
